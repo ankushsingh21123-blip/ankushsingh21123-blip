@@ -217,6 +217,18 @@ focus_areas:
 
 ---
 
+# 📈 Activity & Contribution Stream
+
+<div align="center">
+
+<h3><code>ankush@github: ~/activity --contributions --stream</code></h3>
+
+<img src="./contrib-heatmap.svg" width="100%" alt="Ankush Singh's GitHub Contribution Heatmap" />
+
+</div>
+
+---
+
 # ☕ Fuel the Experiments
 
 If something I've built, researched, broken, rebuilt or open-sourced helped you:
