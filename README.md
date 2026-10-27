@@ -77,13 +77,34 @@ We're tackling foundational questions in the era of autonomous software:
 **AI Risk Quantification & Trust Scoring Architecture**  
 An enterprise-grade platform engineered for actuarial, insurance, and financial AI rating. Evaluates runtime agent behavior, operational boundary compliance, and risk metrics instead of simple benchmark scores.
 
+### 🌐 [DaySpark — Life in Motion](https://github.com/ankushsingh21123-blip/dayspark) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-dayspark--pwa.netlify.app-00C7B7?style=flat-square&logo=netlify)](https://dayspark-pwa.netlify.app)
+**Private, Proof-Backed Progressive Web App**  
+A full-featured, mobile-first PWA for daily productivity, workout routines, and mindful reflections. Features live camera proof verification, zero device-gallery spoofing, offline IndexedDB sync, and ambient environmental awareness.  
+🔗 **Live Application:** [dayspark-pwa.netlify.app](https://dayspark-pwa.netlify.app)
+
+### 💻 [Nova-OS](https://github.com/ankushsingh21123-blip/Nova-OS) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-nova--webos.netlify.app-00C7B7?style=flat-square&logo=netlify)](https://nova-webos.netlify.app)
+**Desktop Operating System UI in the Browser**  
+A high-fidelity Windows-style web operating system built with React, Vite, TypeScript, and Tailwind CSS. Features window management, live draggable widgets, calculator, notepad, and integrated file explorer.  
+🔗 **Live Application:** [nova-webos.netlify.app](https://nova-webos.netlify.app)
+
+### 🎮 [NexusOS](https://github.com/ankushsingh21123-blip/NexusOS) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-nexusos--platform.netlify.app-00C7B7?style=flat-square&logo=netlify)](https://nexusos-platform.netlify.app)
+**Gamified Productivity & Quest Engine**  
+Transforms daily habits, skill trees, and recurring obligations into an interactive RPG progression loop with dynamic rewards and stat tracking.  
+🔗 **Live Application:** [nexusos-platform.netlify.app](https://nexusos-platform.netlify.app)
+
+### 📐 [MathMatrix](https://github.com/ankushsingh21123-blip/MathMatrix) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-math--matrix--lab.netlify.app-00C7B7?style=flat-square&logo=netlify)](https://math-matrix-lab.netlify.app)
+**Interactive Mathematical Concept Explorer**  
+Real-time visual computation lab for multi-variable calculus, Fourier transforms, probability distributions, and the Central Limit Theorem.  
+🔗 **Live Application:** [math-matrix-lab.netlify.app](https://math-matrix-lab.netlify.app)
+
+### 🎨 [Hallmark](https://github.com/ankushsingh21123-blip/hallmark) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-hallmark--design.netlify.app-00C7B7?style=flat-square&logo=netlify)](https://hallmark-design.netlify.app)
+**Anti-AI-Slop Design Skill & Fifty Materials Showcase**  
+Design framework and theme engine that refuses to look AI-generated, featuring fifty distinct material systems, real typography, and contrast verification.  
+🔗 **Live Application:** [hallmark-design.netlify.app](https://hallmark-design.netlify.app)
+
 ### 🚁 Axon — Drone Mapping & Digital Twins
 **Autonomous Photogrammetry & Structural Inspection**  
 Combines drone flight automation, autonomous computer vision, and dense 3D point cloud reconstruction to identify structural anomalies and infrastructure degradation in real time.
-
-### 🌐 [DaySpark — Life in Motion](https://github.com/ankushsingh21123-blip/dayspark)
-**Private, Proof-Backed Progressive Web App**  
-A full-featured, mobile-first PWA for daily productivity, workout routines, and mindful reflections. Features live camera proof verification, zero device-gallery spoofing, offline IndexedDB sync, and ambient environmental awareness.
 
 ### 🥗 [Mess Management System](https://github.com/ankushsingh21123-blip/messs)
 **Real-Time Computer Vision Entry Logging & Analytics**  
@@ -92,18 +113,6 @@ High-throughput institutional cafeteria entry tracking powered by OpenCV face re
 ### 🛒 [Dunkandar](https://github.com/ankushsingh21123-blip/dunkandar) & Hyperlocal Fashion Commerce
 **Transforming Offline Retail into Scalable Digital Supply Chains**  
 A localized commerce ecosystem bridging high-density neighborhood retail with on-demand geographic discovery, real-time inventory synchronization, and dispatch routing.
-
-### 💻 [Nova-OS](https://github.com/ankushsingh21123-blip/Nova-OS)
-**Desktop Operating System UI in the Browser**  
-A high-fidelity Windows-style web operating system built with React, Vite, TypeScript, and Tailwind CSS. Features window management, live draggable widgets, calculator, notepad, and integrated file explorer.
-
-### 🎮 [NexusOS](https://github.com/ankushsingh21123-blip/NexusOS)
-**Gamified Productivity & Quest Engine**  
-Transforms daily habits, skill trees, and recurring obligations into an interactive RPG progression loop with dynamic rewards and stat tracking.
-
-### 📐 [MathMatrix](https://github.com/ankushsingh21123-blip/MathMatrix)
-**Interactive Mathematical Concept Explorer**  
-Real-time visual computation lab for multi-variable calculus, Fourier transforms, probability distributions, and the Central Limit Theorem.
 
 ---
 
