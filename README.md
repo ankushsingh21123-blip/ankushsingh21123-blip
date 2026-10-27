@@ -223,7 +223,7 @@ focus_areas:
 
 <h3><code>ankush@github: ~/activity --contributions --stream</code></h3>
 
-<img src="./contrib-heatmap.svg" width="100%" alt="Ankush Singh's GitHub Contribution Heatmap" />
+<img src="https://raw.githubusercontent.com/ankushsingh21123-blip/ankushsingh21123-blip/main/contrib-heatmap.svg" width="100%" alt="Ankush Singh's GitHub Contribution Heatmap" />
 
 </div>
 
