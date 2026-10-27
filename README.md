@@ -284,8 +284,4 @@ class Ankush:
 
 **Research • Architect • Build • Understand • Scale**
 
-<br/>
-
-[![GitHub Followers](https://img.shields.io/github/followers/ankushsingh21123-blip?style=for-the-badge&logo=github&color=blue)](https://github.com/ankushsingh21123-blip)
-
 </div>
