@@ -219,41 +219,70 @@ focus_areas:
 
 ---
 
+# ☕ Fuel the Experiments
+
+If something I've built, researched, broken, rebuilt or open-sourced helped you:
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com)
+
+</div>
+
+No guarantees the coffee produces better code.
+
+Historically, it mostly produces:
+
+```text
+more code
+more tabs
+more repositories
+less sleep
+```
+
+---
+
 # ⚡ Current Runtime
 
 ```python
 class Ankush:
 
     def __init__(self):
-        self.name = "Ankush Singh"
-        self.affiliations = ["Scaler School of Technology", "BITS Pilani"]
-        self.location = "Bangalore, India"
-        self.focus_domains = [
+        self.role = "AI Builder & Systems Architect"
+        self.education = ["Scaler School of Technology", "BITS Pilani"]
+        self.research = [
             "Autonomous Agents",
             "Multi-Agent Orchestration",
             "AI Risk Scoring & Trust Systems",
-            "Hyperlocal Commerce",
+            "Hyperlocal Commerce Infrastructure",
             "Computer Vision & Robotics"
         ]
-        self.mission = (
+        self.current_mission = (
             "Build verifiable, resilient intelligent systems "
             "that solve high-consequence problems in the real world."
         )
+        self.sleep_schedule = None
 
-    def execute(self):
+    def run(self):
         while True:
-            ideate()
-            architect()
+            research()
             build()
-            stress_test()
-            deploy_at_scale()
+            break_something()
+            understand_why()
+            rebuild_better()
 ```
 
 ---
 
 <div align="center">
 
-### *"Transforming unorganized problems into deterministic, scalable systems."*
+# Where intelligence meets execution.
+
+### Building toward a world where autonomous systems operate with verifiable trust, speed, and real-world impact.
+
+<br/>
+
+**Research • Architect • Build • Understand • Scale**
 
 <br/>
 
