@@ -217,21 +217,6 @@ focus_areas:
 
 ---
 
-# 📊 GitHub Telemetry
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ankushsingh21123-blip&show_icons=true&theme=tokyonight&hide_border=false" alt="Ankush's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushsingh21123-blip&theme=tokyonight&hide_border=false" alt="Ankush's Streak Stats" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushsingh21123-blip&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="60%" />
-
-</div>
-
----
-
 # ☕ Fuel the Experiments
 
 If something I've built, researched, broken, rebuilt or open-sourced helped you:
