@@ -73,29 +73,40 @@ We're tackling foundational questions in the era of autonomous software:
 
 # 🚀 Featured Platforms & Innovations
 
+### ⚡ [Truscor-Engine-CPP](https://github.com/ankushsingh21123-blip/Truscor-Engine-CPP)
+**High-Throughput C++20 Multithreaded Monte-Carlo Risk Quantification Engine**  
+Engineered for microsecond-latency actuarial simulations, operational trust scoring, and financial risk modeling. Features custom lock-free block memory pool allocators, cache-aligned state matrices, thread-pool batch parallelization, and modern CMake build infrastructure.  
+🔗 **Repository:** [github.com/ankushsingh21123-blip/Truscor-Engine-CPP](https://github.com/ankushsingh21123-blip/Truscor-Engine-CPP)
+
+### 🧠 [Viber-Agent-Core](https://github.com/ankushsingh21123-blip/Viber-Agent-Core)
+**Autonomous Multi-Agent Orchestration Runtime & Tool Dispatch Engine**  
+Built with **Python 3.12, FastAPI, and AsyncIO**. Implements hierarchical actor supervisor trees, distributed task registries, real-time tool execution sandboxing, semantic memory indexing, and verifiable audit ledgers for LLM workflows.  
+🔗 **Repository:** [github.com/ankushsingh21123-blip/Viber-Agent-Core](https://github.com/ankushsingh21123-blip/Viber-Agent-Core)
+
 ### 🛡️ [SCORAI / TRUSCOR](https://github.com/ankushsingh21123-blip/SCORAI-platform)
 **AI Risk Quantification & Trust Scoring Architecture**  
-An enterprise-grade platform engineered for actuarial, insurance, and financial AI rating. Evaluates runtime agent behavior, operational boundary compliance, and risk metrics instead of simple benchmark scores.
+An enterprise-grade platform engineered for actuarial, insurance, and financial AI rating. Evaluates runtime agent behavior, operational boundary compliance, and risk metrics instead of simple benchmark scores.  
+🔗 **Repository:** [github.com/ankushsingh21123-blip/SCORAI-platform](https://github.com/ankushsingh21123-blip/SCORAI-platform)
 
 ### 🌐 [DaySpark — Life in Motion](https://github.com/ankushsingh21123-blip/dayspark) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-dayspark--pwa.netlify.app-00C7B7?style=flat-square&logo=netlify)](https://dayspark-pwa.netlify.app)
-**Private, Proof-Backed Progressive Web App**  
-A full-featured, mobile-first PWA for daily productivity, workout routines, and mindful reflections. Features live camera proof verification, zero device-gallery spoofing, offline IndexedDB sync, and ambient environmental awareness.  
-🔗 **Live Application:** [dayspark-pwa.netlify.app](https://dayspark-pwa.netlify.app)
+**Private, Proof-Backed PWA with Python FastAPI & C++ Native Integrity Engine**  
+A full-featured, mobile-first PWA for daily productivity and workout routines. Powered by a **Python 3.12 FastAPI** backend service and a **C++20 native tamper verification engine** (`core-cpp/`) executing zero-gallery spoofing checks, perceptual hashing (pHash), and cryptographic proof generation.  
+🔗 **Live Application:** [dayspark-pwa.netlify.app](https://dayspark-pwa.netlify.app) &nbsp;|&nbsp; **Repo:** [github.com/ankushsingh21123-blip/dayspark](https://github.com/ankushsingh21123-blip/dayspark)
 
 ### 💻 [Nova-OS](https://github.com/ankushsingh21123-blip/Nova-OS) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-nova--webos.netlify.app-00C7B7?style=flat-square&logo=netlify)](https://nova-webos.netlify.app)
-**Desktop Operating System UI in the Browser**  
-A high-fidelity Windows-style web operating system built with React, Vite, TypeScript, and Tailwind CSS. Features window management, live draggable widgets, calculator, notepad, and integrated file explorer.  
-🔗 **Live Application:** [nova-webos.netlify.app](https://nova-webos.netlify.app)
+**Desktop Operating System in the Browser with Python Daemon & C++ Kernel Core**  
+A high-fidelity Windows-style web operating system (React 18 + Vite 6 + TypeScript). Backed by an asynchronous **Python 3.12 OS Daemon** (`backend-python/`) for host telemetry and sandboxed terminal execution, paired with a **C++20 Kernel Simulator** (`core-cpp/`) modeling round-robin process scheduling and LRU virtual paging.  
+🔗 **Live Application:** [nova-webos.netlify.app](https://nova-webos.netlify.app) &nbsp;|&nbsp; **Repo:** [github.com/ankushsingh21123-blip/Nova-OS](https://github.com/ankushsingh21123-blip/Nova-OS)
 
 ### 🎮 [NexusOS](https://github.com/ankushsingh21123-blip/NexusOS) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-nexusos--platform.netlify.app-00C7B7?style=flat-square&logo=netlify)](https://nexusos-platform.netlify.app)
-**Gamified Productivity & Quest Engine**  
-Transforms daily habits, skill trees, and recurring obligations into an interactive RPG progression loop with dynamic rewards and stat tracking.  
-🔗 **Live Application:** [nexusos-platform.netlify.app](https://nexusos-platform.netlify.app)
+**Gamified RPG Productivity System with Python API & C++ Combat Engine**  
+Transforms daily habits, skill trees, and recurring obligations into an interactive RPG progression loop. Powered by a **Python 3.12 FastAPI** service (`backend-python/`) for exponential XP curves and habit streak multipliers, and a **C++20 simulation engine** (`engine-cpp/`) executing deterministic 64-bit XorShift combat calculations and loot rolls.  
+🔗 **Live Application:** [nexusos-platform.netlify.app](https://nexusos-platform.netlify.app) &nbsp;|&nbsp; **Repo:** [github.com/ankushsingh21123-blip/NexusOS](https://github.com/ankushsingh21123-blip/NexusOS)
 
 ### 📐 [MathMatrix](https://github.com/ankushsingh21123-blip/MathMatrix) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-math--matrix--lab.netlify.app-00C7B7?style=flat-square&logo=netlify)](https://math-matrix-lab.netlify.app)
-**Interactive Mathematical Concept Explorer**  
-Real-time visual computation lab for multi-variable calculus, Fourier transforms, probability distributions, and the Central Limit Theorem.  
-🔗 **Live Application:** [math-matrix-lab.netlify.app](https://math-matrix-lab.netlify.app)
+**Interactive Mathematical Concept Explorer with Python Math API & C++ FFT Engine**  
+Real-time visual computation lab for multi-variable calculus, Fourier transforms, and probability distributions. Backed by a **Python 3.12 scientific API** (`backend-python/`) for numerical quadratures and a **C++20 Cooley-Tukey Radix-2 Fast Fourier Transform engine** (`engine-cpp/`) for $O(N \log N)$ spectral decomposition.  
+🔗 **Live Application:** [math-matrix-lab.netlify.app](https://math-matrix-lab.netlify.app) &nbsp;|&nbsp; **Repo:** [github.com/ankushsingh21123-blip/MathMatrix](https://github.com/ankushsingh21123-blip/MathMatrix)
 
 ### 🎨 [Hallmark](https://github.com/ankushsingh21123-blip/hallmark) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-hallmark--design.netlify.app-00C7B7?style=flat-square&logo=netlify)](https://hallmark-design.netlify.app)
 **Anti-AI-Slop Design Skill & Fifty Materials Showcase**  
@@ -132,14 +143,14 @@ A localized commerce ecosystem bridging high-density neighborhood retail with on
 
 ```yaml
 focus_areas:
-  - Autonomous Multi-Agent Systems
+  - High-Throughput C++ Systems & Memory Pool Allocators
+  - Autonomous Multi-Agent Orchestration (Python / AsyncIO)
   - Agentic AI Tool Calling & Kernel Design
-  - AI Risk Quantification & Trust Benchmarks
-  - Real-Time Computer Vision & Edge Photogrammetry
-  - Hyperlocal Commerce & On-Demand Routing
-  - Distributed Backend Microservices
+  - AI Risk Quantification & Actuarial Trust Benchmarks
+  - Real-Time Computer Vision & Edge Photogrammetry (OpenCV / PyTorch)
+  - Hyperlocal Commerce & On-Demand Dispatch Routing
+  - Distributed Backend Microservices (FastAPI / C++ / Docker)
   - Human-Computer Interaction & Web Operating Systems
-  - Hardware, Drones & Sensory Robotics
 ```
 
 ---
@@ -147,11 +158,12 @@ focus_areas:
 # 💻 Tech Stack & Tooling
 
 ### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B_20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -167,20 +179,21 @@ focus_areas:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
 ### ⚙️ Backend, AI & Systems
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![C++20](https://img.shields.io/badge/C%2B%2B20_Concurrency-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
 
 ---
 
